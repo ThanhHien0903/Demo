@@ -2,6 +2,7 @@
 
 Repository(Repo)
 Branch
+Conflix
 
 # Command
 
@@ -16,3 +17,5 @@ Branch
 - git log --oneline
 - git checkout + id của commit: trở lại 1 thời điểm ban đầu
 - git checkout {brand name}trở lại về hiện tại
+- git merge + {brand name}
+- git branch -d {brand name}
