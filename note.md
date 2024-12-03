@@ -1,6 +1,7 @@
 # Terms
 
 Repository(Repo)
+Branch
 
 # Command
 
@@ -14,4 +15,4 @@ Repository(Repo)
 - git log: xem thời điểm lưu
 - git log --oneline
 - git checkout + id của commit: trở lại 1 thời điểm ban đầu
-  P
+- git checkout {brand name}trở lại về hiện tại
